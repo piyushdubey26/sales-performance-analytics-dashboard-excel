@@ -8,6 +8,15 @@ This project is an interactive Sales Performance Analytics Dashboard built in Mi
 
 ![Dashboard](Dashboard.png)
 
+## Sales by Region
+![Sales by Region](Sales by Region.png)
+
+## Sales by Category
+![Sales by Category](Sales by Category.png)
+
+## Monthly Sales Trend
+![Monthly Sales Trend](Monthly Sales Trend.png)
+
 ### Key Performance Indicators (KPIs)
 - Total Sales: ₹26,27,880.72
 - Total Profit: ₹4,02,257.52
