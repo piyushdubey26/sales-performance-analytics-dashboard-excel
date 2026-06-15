@@ -4,6 +4,9 @@
 This project is an interactive Sales Performance Analytics Dashboard built in Microsoft Excel. It helps analyze sales performance, profit trends, regional performance, product-wise sales, and category insights using Pivot Tables, Pivot Charts, and KPI metrics.
 
 ## Dashboard Highlights
+## Dashboard Preview
+
+![Dashboard](Dashboard.png)
 
 ### Key Performance Indicators (KPIs)
 - Total Sales: ₹26,27,880.72
